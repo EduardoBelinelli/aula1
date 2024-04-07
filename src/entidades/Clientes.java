@@ -8,6 +8,7 @@ public class Clientes {
 	private int telefone;
 	private String endereço;
 	private int tipoCliente;	
+	private int cpf;
 	
 	public static void manterCliente(){
 		
